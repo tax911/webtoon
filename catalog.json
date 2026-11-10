@@ -1,0 +1,154 @@
+{
+  "series": [
+    {
+      "id": "manggeom-hoegwi",
+      "title": "망검회귀",
+      "title_en": "MANGGEOM HOEGWI",
+      "title_hanja": "忘劍回歸",
+      "tagline": "미래를 바꿀 때마다 전생의 기억이 하나씩 지워진다.",
+      "synopsis": "문파도, 동료도, 무림도 모두 잃고 죽은 검객이 30년 전으로 돌아온다. 하지만 미래를 바꿀 때마다 전생의 기억이 하나씩 지워진다.",
+      "genre": [
+        "무협 회귀물"
+      ],
+      "format": "세로 스크롤",
+      "planned_episodes": 230,
+      "cover": "assets/manggeom-hoegwi/covers/01_cut12_duel.jpg",
+      "url": "manggeom-hoegwi/index.html",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "검이 꺾인 밤",
+          "summary": "완성된 회차 원고가 아닌 1화 주요 장면 시안입니다.",
+          "kind": "concept",
+          "displayTitle": "1화 시안 · 검이 꺾인 밤",
+          "url": "manggeom-hoegwi/episode-001.html",
+          "imageCount": 4,
+          "images": [
+            "assets/manggeom-hoegwi/episodes/001/01_cut12_duel.jpg",
+            "assets/manggeom-hoegwi/episodes/001/02_cut23_mirror.jpg",
+            "assets/manggeom-hoegwi/episodes/001/03_cut41_reunion.jpg",
+            "assets/manggeom-hoegwi/episodes/001/04_cut69_ending.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ashen-oath",
+      "title": "잿빛 서약",
+      "title_en": "ASHEN OATH",
+      "title_hanja": "",
+      "tagline": "떠나는 사람들의 이름을 기억하는 약속.",
+      "synopsis": "불타는 왕도를 벗어난 다섯 사람. 그들은 숲에 남은 이들을 데리러 돌아간다.",
+      "genre": [
+        "판타지",
+        "모험"
+      ],
+      "format": "세로 스크롤",
+      "planned_episodes": null,
+      "cover": "assets/ashen-oath/covers/01.jpg",
+      "url": "ashen-oath/index.html",
+      "episodes": [
+        {
+          "number": 1,
+          "title": "마지막 피난 행렬",
+          "summary": "불타는 왕도를 등진 행렬. 에드린은 마지막 왕명 앞에서 한 아이의 손을 잡는다.",
+          "kind": "episode",
+          "displayTitle": "1화 · 마지막 피난 행렬",
+          "url": "ashen-oath/episode-001.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/001/000.jpg",
+            "assets/ashen-oath/episodes/001/001.jpg",
+            "assets/ashen-oath/episodes/001/002.jpg",
+            "assets/ashen-oath/episodes/001/003.jpg",
+            "assets/ashen-oath/episodes/001/004.jpg",
+            "assets/ashen-oath/episodes/001/005.jpg",
+            "assets/ashen-oath/episodes/001/006.jpg",
+            "assets/ashen-oath/episodes/001/007.jpg",
+            "assets/ashen-oath/episodes/001/008.jpg",
+            "assets/ashen-oath/episodes/001/009.jpg",
+            "assets/ashen-oath/episodes/001/010.jpg",
+            "assets/ashen-oath/episodes/001/011.jpg",
+            "assets/ashen-oath/episodes/001/012.jpg",
+            "assets/ashen-oath/episodes/001/013.jpg"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "숲에 남은 수레",
+          "summary": "아직 돌아오지 않은 수레 한 대. 세 사람은 남겨진 바퀴 자국을 따라 숲으로 향한다.",
+          "kind": "episode",
+          "displayTitle": "2화 · 숲에 남은 수레",
+          "url": "ashen-oath/episode-002.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/002/000.jpg",
+            "assets/ashen-oath/episodes/002/001.jpg",
+            "assets/ashen-oath/episodes/002/002.jpg",
+            "assets/ashen-oath/episodes/002/003.jpg",
+            "assets/ashen-oath/episodes/002/004.jpg",
+            "assets/ashen-oath/episodes/002/005.jpg",
+            "assets/ashen-oath/episodes/002/006.jpg",
+            "assets/ashen-oath/episodes/002/007.jpg",
+            "assets/ashen-oath/episodes/002/008.jpg",
+            "assets/ashen-oath/episodes/002/009.jpg",
+            "assets/ashen-oath/episodes/002/010.jpg",
+            "assets/ashen-oath/episodes/002/011.jpg",
+            "assets/ashen-oath/episodes/002/012.jpg",
+            "assets/ashen-oath/episodes/002/013.jpg"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "숲이 기억하는 이름",
+          "summary": "숲에 매달린 문패와 썩어 버린 식량. 같은 날을 반대편에서 기억하는 두 사람이 남겨진 이름을 마주한다.",
+          "kind": "episode",
+          "displayTitle": "3화 · 숲이 기억하는 이름",
+          "url": "ashen-oath/episode-003.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/003/000.jpg",
+            "assets/ashen-oath/episodes/003/001.jpg",
+            "assets/ashen-oath/episodes/003/002.jpg",
+            "assets/ashen-oath/episodes/003/003.jpg",
+            "assets/ashen-oath/episodes/003/004.jpg",
+            "assets/ashen-oath/episodes/003/005.jpg",
+            "assets/ashen-oath/episodes/003/006.jpg",
+            "assets/ashen-oath/episodes/003/007.jpg",
+            "assets/ashen-oath/episodes/003/008.jpg",
+            "assets/ashen-oath/episodes/003/009.jpg",
+            "assets/ashen-oath/episodes/003/010.jpg",
+            "assets/ashen-oath/episodes/003/011.jpg",
+            "assets/ashen-oath/episodes/003/012.jpg",
+            "assets/ashen-oath/episodes/003/013.jpg"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "움켜쥔 손",
+          "summary": "이름을 지키려는 손이 길을 가로막는다. 다섯 사람은 뿌리가 붙잡은 것과 끝내 놓아야 할 것을 구분한다.",
+          "kind": "episode",
+          "displayTitle": "4화 · 움켜쥔 손",
+          "url": "ashen-oath/episode-004.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/004/000.jpg",
+            "assets/ashen-oath/episodes/004/001.jpg",
+            "assets/ashen-oath/episodes/004/002.jpg",
+            "assets/ashen-oath/episodes/004/003.jpg",
+            "assets/ashen-oath/episodes/004/004.jpg",
+            "assets/ashen-oath/episodes/004/005.jpg",
+            "assets/ashen-oath/episodes/004/006.jpg",
+            "assets/ashen-oath/episodes/004/007.jpg",
+            "assets/ashen-oath/episodes/004/008.jpg",
+            "assets/ashen-oath/episodes/004/009.jpg",
+            "assets/ashen-oath/episodes/004/010.jpg",
+            "assets/ashen-oath/episodes/004/011.jpg",
+            "assets/ashen-oath/episodes/004/012.jpg",
+            "assets/ashen-oath/episodes/004/013.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

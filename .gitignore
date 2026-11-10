@@ -1,0 +1,5 @@
+preview_*.png
+.DS_Store
+__pycache__/
+*.pyc
+.python-version
