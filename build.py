@@ -105,6 +105,11 @@ def scan_episode_dirs(series_dir: Path) -> dict[int, dict]:
             [p for p in child.iterdir() if p.is_file() and p.suffix.lower() in IMAGE_EXTS],
             key=lambda p: natural_key(p.name),
         )
+        # If numbered viewer files (01.jpg, 70.jpg, 000.jpg) exist alongside
+        # working originals such as cut_001.jpg, publish only the numbered set.
+        numeric = [p for p in images if re.fullmatch(r"\d+\.(?:jpg|jpeg|png|webp|gif)", p.name, re.I)]
+        if numeric:
+            images = numeric
         if not images:
             continue
         existing = found.get(number)
