@@ -153,6 +153,110 @@
             "assets/ashen-oath/episodes/004/012.jpg",
             "assets/ashen-oath/episodes/004/013.jpg"
           ]
+        },
+        {
+          "number": 5,
+          "title": "완치된 사람들",
+          "summary": "되찾은 수레가 안뜰에 돌아온 밤, 미엘은 대성당에서 자신이 보낸 편지의 진실을 마주한다.",
+          "kind": "episode",
+          "displayTitle": "5화 · 완치된 사람들",
+          "url": "ashen-oath/episode-005.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/005/000.jpg",
+            "assets/ashen-oath/episodes/005/001.jpg",
+            "assets/ashen-oath/episodes/005/002.jpg",
+            "assets/ashen-oath/episodes/005/003.jpg",
+            "assets/ashen-oath/episodes/005/004.jpg",
+            "assets/ashen-oath/episodes/005/005.jpg",
+            "assets/ashen-oath/episodes/005/006.jpg",
+            "assets/ashen-oath/episodes/005/007.jpg",
+            "assets/ashen-oath/episodes/005/008.jpg",
+            "assets/ashen-oath/episodes/005/009.jpg",
+            "assets/ashen-oath/episodes/005/010.jpg",
+            "assets/ashen-oath/episodes/005/011.jpg",
+            "assets/ashen-oath/episodes/005/012.jpg",
+            "assets/ashen-oath/episodes/005/013.jpg"
+          ]
+        },
+        {
+          "number": 6,
+          "title": "대답을 듣는 기도",
+          "summary": "종소리가 이름 없는 잔영을 부른다. 미엘은 명령 대신 대답을 기다리고, 다섯 사람은 환자가 나갈 길을 연다.",
+          "kind": "episode",
+          "displayTitle": "6화 · 대답을 듣는 기도",
+          "url": "ashen-oath/episode-006.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/006/000.jpg",
+            "assets/ashen-oath/episodes/006/001.jpg",
+            "assets/ashen-oath/episodes/006/002.jpg",
+            "assets/ashen-oath/episodes/006/003.jpg",
+            "assets/ashen-oath/episodes/006/004.jpg",
+            "assets/ashen-oath/episodes/006/005.jpg",
+            "assets/ashen-oath/episodes/006/006.jpg",
+            "assets/ashen-oath/episodes/006/007.jpg",
+            "assets/ashen-oath/episodes/006/008.jpg",
+            "assets/ashen-oath/episodes/006/009.jpg",
+            "assets/ashen-oath/episodes/006/010.jpg",
+            "assets/ashen-oath/episodes/006/011.jpg",
+            "assets/ashen-oath/episodes/006/012.jpg",
+            "assets/ashen-oath/episodes/006/013.jpg"
+          ]
+        },
+        {
+          "number": 7,
+          "title": "문밖의 손자국",
+          "summary": "얼어붙은 문밖에 남은 손자국. 타르엔은 문을 열고, 브린은 멈출 수 없게 만든 자신의 설계를 다시 마주한다.",
+          "kind": "episode",
+          "displayTitle": "7화 · 문밖의 손자국",
+          "url": "ashen-oath/episode-007.html",
+          "imageCount": 14,
+          "images": [
+            "assets/ashen-oath/episodes/007/000.jpg",
+            "assets/ashen-oath/episodes/007/001.jpg",
+            "assets/ashen-oath/episodes/007/002.jpg",
+            "assets/ashen-oath/episodes/007/003.jpg",
+            "assets/ashen-oath/episodes/007/004.jpg",
+            "assets/ashen-oath/episodes/007/005.jpg",
+            "assets/ashen-oath/episodes/007/006.jpg",
+            "assets/ashen-oath/episodes/007/007.jpg",
+            "assets/ashen-oath/episodes/007/008.jpg",
+            "assets/ashen-oath/episodes/007/009.jpg",
+            "assets/ashen-oath/episodes/007/010.jpg",
+            "assets/ashen-oath/episodes/007/011.jpg",
+            "assets/ashen-oath/episodes/007/012.jpg",
+            "assets/ashen-oath/episodes/007/013.jpg"
+          ]
+        },
+        {
+          "number": 8,
+          "title": "이번 교대는 끝이다",
+          "summary": "장군을 쓰러뜨려도 기계는 멈추지 않는다. 다섯 사람은 함께 제동줄을 잡고, 갇힌 사람들과 돌아갈 길을 연다.",
+          "kind": "episode",
+          "displayTitle": "8화 · 이번 교대는 끝이다",
+          "url": "ashen-oath/episode-008.html",
+          "imageCount": 18,
+          "images": [
+            "assets/ashen-oath/episodes/008/000.jpg",
+            "assets/ashen-oath/episodes/008/001.jpg",
+            "assets/ashen-oath/episodes/008/002.jpg",
+            "assets/ashen-oath/episodes/008/003.jpg",
+            "assets/ashen-oath/episodes/008/004.jpg",
+            "assets/ashen-oath/episodes/008/005.jpg",
+            "assets/ashen-oath/episodes/008/006.jpg",
+            "assets/ashen-oath/episodes/008/007.jpg",
+            "assets/ashen-oath/episodes/008/008.jpg",
+            "assets/ashen-oath/episodes/008/009.jpg",
+            "assets/ashen-oath/episodes/008/010.jpg",
+            "assets/ashen-oath/episodes/008/011.jpg",
+            "assets/ashen-oath/episodes/008/012.jpg",
+            "assets/ashen-oath/episodes/008/013.jpg",
+            "assets/ashen-oath/episodes/008/014.jpg",
+            "assets/ashen-oath/episodes/008/015.jpg",
+            "assets/ashen-oath/episodes/008/016.jpg",
+            "assets/ashen-oath/episodes/008/017.jpg"
+          ]
         }
       ]
     }
