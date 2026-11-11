@@ -35,6 +35,27 @@
             "assets/manggeom-hoegwi/episodes/001/09.jpg",
             "assets/manggeom-hoegwi/episodes/001/10.jpg"
           ]
+        },
+        {
+          "number": 2,
+          "title": "30일",
+          "summary": "회귀 사흘 뒤, 진무현은 어린 몸으로 청운검문의 담을 넘는 첫 자객을 막는다. 쓰러진 자의 패에는 철혈상단의 문양이 남아 있고, 멸문까지 남은 스물이레의 날이 시작된다.",
+          "kind": "episode",
+          "displayTitle": "2화 · 30일",
+          "url": "manggeom-hoegwi/episode-002.html",
+          "imageCount": 10,
+          "images": [
+            "assets/manggeom-hoegwi/episodes/002/01.jpg",
+            "assets/manggeom-hoegwi/episodes/002/02.jpg",
+            "assets/manggeom-hoegwi/episodes/002/03.jpg",
+            "assets/manggeom-hoegwi/episodes/002/04.jpg",
+            "assets/manggeom-hoegwi/episodes/002/05.jpg",
+            "assets/manggeom-hoegwi/episodes/002/06.jpg",
+            "assets/manggeom-hoegwi/episodes/002/07.jpg",
+            "assets/manggeom-hoegwi/episodes/002/08.jpg",
+            "assets/manggeom-hoegwi/episodes/002/09.jpg",
+            "assets/manggeom-hoegwi/episodes/002/10.jpg"
+          ]
         }
       ]
     },
